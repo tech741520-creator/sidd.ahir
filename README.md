@@ -1,3 +1,3 @@
 # sidd.ahir
-this is my first repository
-author - siddharth
+this is my first repository.
+Author - siddharth
